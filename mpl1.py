@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+# в разработке
 
 def lines():
     x = np.array([-20, 20])
